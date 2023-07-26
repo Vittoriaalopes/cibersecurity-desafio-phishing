@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de dados pessoais
 
 ### Ferramentas
 
@@ -14,8 +14,8 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://mirtisnet.com.br
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+Não são dados reais e sim uma demonstração ![Captura de tela 2023-07-26 192344](https://github.com/Vittoriaalopes/cibersecurity-desafio-phishing/assets/132390477/ae49a6c2-002a-4b08-ba14-909e1fd98095)
